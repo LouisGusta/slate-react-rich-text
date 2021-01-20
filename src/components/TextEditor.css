@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Yusei+Magic&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.container {
+    overflow-y:scroll;
+    height: 500px;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: start;
+    align-items:start;
+    background: #f5f5f5;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    box-shadow: 2px 2px 5px #4e4e4e;
+    border-radius: 5px;
+}
+
+.btn-content {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-bottom: solid rgba(78, 78, 78, .2) 1px;
+}
+
+.btn-content button {
+    padding: 2px;
+    margin-left: 10px!important;
+    margin: 2px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    outline-style: none;
+    background-color: #f5f5f5;
+}
