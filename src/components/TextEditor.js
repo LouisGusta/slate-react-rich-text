@@ -86,9 +86,35 @@ const TextEditor = () => {
     const editor = useMemo(() => withReact(createEditor()), [])
     const [value, setValue] = useState([
         {
-            type: 'paragraph',
-            children: [{ text: 'A line of text in a paragraph.' }],
+            type: 'title',
+            children: [{ text: 'Aqui vai um título' }],
         },
+        {
+
+            type: 'paragraph',
+            children: [{ text: '' }],
+
+        },
+        {
+
+            type: 'paragraph',
+            children: [{ text: 'Aqui um texto normal' }],
+
+        },
+        {
+
+            type: 'paragraph',
+            children: [{ text: '' }],
+
+        },
+        {
+            type: 'paragraph',
+            children: [{
+                text: 'Aqui um texto em negrito e itálico',
+                bold: 'true',
+                italic: 'true',
+            }],
+        }
     ])
 
     const renderElement = useCallback(props => {
@@ -204,7 +230,6 @@ const Leaf = props => {
                 {
                     fontWeight: props.leaf.bold ? 'bold' : 'normal',
                     fontStyle: props.leaf.italic ? 'italic' : 'normal',
-
                 }}
         >
             { props.children}
