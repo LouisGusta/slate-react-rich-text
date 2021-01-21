@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# slate-react-rich-text
 
-You can use the [editor on GitHub](https://github.com/LouisGusta/slate-react-rich-text/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Projeto usando Slate.js do React , ferramenta disponibilizada pelo facebook em 2016 para criação de Rich Texts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Por que ?
 
-### Markdown
+Fiz esse projeto para testar meus conhecimentos em React e aprender um pouco mais sobre esse framework.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Referências
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LouisGusta/slate-react-rich-text/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Descobri a tecnologia nesse artigo do [Medium](https://medium.com/better-programming/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2) e a documentação do próprio [Slate.js](https://www.slatejs.org/examples/richtext) me ajudou muito.
