@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slate-react-rich-text/app/static/css/main.33526b87.chunk.css",
+    "main.js": "/slate-react-rich-text/app/static/js/main.008b5a47.chunk.js",
+    "main.js.map": "/slate-react-rich-text/app/static/js/main.008b5a47.chunk.js.map",
+    "runtime-main.js": "/slate-react-rich-text/app/static/js/runtime-main.6a21fb25.js",
+    "runtime-main.js.map": "/slate-react-rich-text/app/static/js/runtime-main.6a21fb25.js.map",
+    "static/js/2.ed5cd374.chunk.js": "/slate-react-rich-text/app/static/js/2.ed5cd374.chunk.js",
+    "static/js/2.ed5cd374.chunk.js.map": "/slate-react-rich-text/app/static/js/2.ed5cd374.chunk.js.map",
+    "static/js/3.8e30e7cd.chunk.js": "/slate-react-rich-text/app/static/js/3.8e30e7cd.chunk.js",
+    "static/js/3.8e30e7cd.chunk.js.map": "/slate-react-rich-text/app/static/js/3.8e30e7cd.chunk.js.map",
+    "index.html": "/slate-react-rich-text/app/index.html",
+    "static/css/main.33526b87.chunk.css.map": "/slate-react-rich-text/app/static/css/main.33526b87.chunk.css.map",
+    "static/js/2.ed5cd374.chunk.js.LICENSE.txt": "/slate-react-rich-text/app/static/js/2.ed5cd374.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a21fb25.js",
+    "static/js/2.ed5cd374.chunk.js",
+    "static/css/main.33526b87.chunk.css",
+    "static/js/main.008b5a47.chunk.js"
+  ]
+}
